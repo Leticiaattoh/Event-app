@@ -8,7 +8,7 @@ import Partners from './components/Partners'
 import Section2 from './components/Section2'
 import Section3 from './components/Section3'
 import Shows from './components/Shows'
-import Subscribe from './components/subscribe'
+import Subscribe from './components/Subscribe'
 
 
 function App() {
